@@ -28,3 +28,10 @@ Later, he returned to the FRONT side and studied the elements needed for the fro
 I found suitable courses for myself and i believe I hope that my dream of working with a technical discipline will soon become a reality, namely with Frontend Developer
 
 
+## **Skills and Profeciency:**
+* HTML5 and CSS3
+* JavaScript Basic 
+* PHP and MySGL Basic 
+* Git , GitHub 
+* VS Code , PHPStorm
+
