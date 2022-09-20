@@ -4,11 +4,11 @@
 
 
 ## Contact information:
-### **Phone:** *+380933890289*
-### **E-mail:** *dimacik.garbar@gmail.com*
+### **Phone:** +380933890289
+### **E-mail:** dimacik.garbar@gmail.com
 ### **Telegram:** *@dimitriy007*
-### **Skype:** *[https://join.skype.com/invite/OG8WAw7n7csz]*
-### **Linkedin** *[https://www.linkedin.com/feed/]*
+### **Skype:** https://join.skype.com/invite/OG8WAw7n7csz
+### **Linkedin** https://www.linkedin.com/feed/
 
 
 ## **Briefly About Myself:** 
@@ -34,4 +34,18 @@ I found suitable courses for myself and i believe I hope that my dream of workin
 * PHP and MySGL Basic 
 * Git , GitHub 
 * VS Code , PHPStorm
+
+
+## **Code example :**
+There should be code here
+
+
+## *Courses* 
+* Course from QaTestLab position a Junior Qa ( completed)
+*  RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## *Languages* 
+* English level Intermedia (according to the online test at EFset Logo www.efset.org) improving every day 
+* Ukrainian - Upper-intermedia 
+
 
