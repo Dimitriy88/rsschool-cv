@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Dimitriy88.github.io/rsschool-cv/cv
+https://github.com/Dimitriy88/rsschool-cv/tree/rsschool-cv-html
